@@ -1,8 +1,18 @@
 HTML dagelijkse planning.
 
 2-3 December: Brainstormen over ideeen, welke paginas ik wil . En hoe
+-Uitvinden wat het <p> tag doet.
+-Bekijken hoe responsive werkt
+
 4-7 December: Header, Navigate, sections etc maken voor de Main Pagina
+- Header, Sections, Navigation mee experimenteren, bijv hover en switchen tussen paginas
+
 7-10 December: Sections maken voor de album en leden pagina en en er aan werken
+- Speciale Sections voor bijvoorbeeld de leden, of een album met fotos. 
+
 11-15 december: Leden, Album pagina helemaal afmaken en mooi maken. 
+
 16-18 December Contact pagina maken met grid, en ook nog alles beetje polishen 
+- Uren met grid gekloot 
+
 18 December laatse wijzingen, zelfreflectie schrijven.
